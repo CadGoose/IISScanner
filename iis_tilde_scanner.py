@@ -1,4 +1,3 @@
-cat > iis_tilde_scanner.py << 'SCRIPT_EOF'
 #!/usr/bin/env python3
 """
 IIS Tilde (~) Vulnerability Scanner
@@ -362,4 +361,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-SCRIPT_EOF
